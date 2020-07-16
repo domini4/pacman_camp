@@ -1,0 +1,21 @@
+{
+    "name": "Pacman_Camp",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-turtlelogo": "github:abegel/pxt-turtlelogo#v1.0.1",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
