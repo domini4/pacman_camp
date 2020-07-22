@@ -3,9 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-turtlelogo": "github:abegel/pxt-turtlelogo#v1.0.2",
-        "animation": "*",
-        "color-coded-tilemap": "*"
+        "pxt-turtlelogo": "github:abegel/pxt-turtlelogo#v1.0.1",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
